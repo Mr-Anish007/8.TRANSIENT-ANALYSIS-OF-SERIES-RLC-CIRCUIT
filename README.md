@@ -32,6 +32,8 @@ Compare the calculated values and measured values of voltage in both the cases.
 
 **Marksplitup:**
 
+<img width="1400" height="1440" alt="WhatsApp Image 2026-05-24 at 2 35 32 PM (2)" src="https://github.com/user-attachments/assets/cd5d7883-60fe-4661-ad41-537e3ace008e" />
+
 
 **RESULT:**
 
